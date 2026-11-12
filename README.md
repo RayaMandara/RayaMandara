@@ -1,173 +1,124 @@
+ <div align="center">
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=180&section=header&text=RAYA.&fontSize=76&fontColor=eeeeee&fontAlignY=55&desc=AN%20ONGOING%20EXPERIMENT&descSize=11&descColor=888888&descAlignY=80" width="100%" />
-
-<br/>
-
-**NOT HERE TO MAKE NOISE. JUST HERE TO MAKE THINGS.**
+<img src="assets/code-portrait.svg" width="100%" alt="Raya Mandara, a portrait constructed from programming code" />
 
 <br/>
 
-`DEVELOPER` &nbsp; / &nbsp; `BUILDER` &nbsp; / &nbsp; `OBSERVER`
+# R A Y A   M A N D A R A
 
-<br/><br/>
+`developer` · `creator` · `problem solver`
+
+**I build things to understand how things work.**
+
+<br/>
+
+[ `GITHUB` ](https://github.com/RayaMandara) · [ `PROJECTS` ](#selected-work) · [ `CONTACT` ](#connect)
 
 </div>
 
 ---
 
-<div align="right">
+```text
+┌──────────────────────────────────────────────────────────┐
+│  IDENTITY.LOG                                             │
+│                                                          │
+│  name       : Raya Mandara                               │
+│  location   : Indonesia                                  │
+│  occupation : Student / Developer                        │
+│  mindset    : Curious, experimental, quiet               │
+│  currently  : Turning ideas into working software        │
+│                                                          │
+│  "I prefer making something over explaining what         │
+│   I could make."                                          │
+└──────────────────────────────────────────────────────────┘
+```
 
-`INDEX / 001 — ABOUT`
+## 01 / ABOUT
 
-</div>
+I'm a student developer interested in building digital products, exploring software architecture, and experimenting with technology.
 
-## A little about me.
-
-I'm Raya, a developer who prefers building quietly and learning through the process.
-
-I enjoy turning small ideas into real things, exploring how systems work, and experimenting with technology.
+I enjoy working across different layers of development, from designing interfaces to connecting APIs and building backend systems.
 
 I don't have everything figured out. That's part of the process.
 
-<br/>
+## 02 / SELECTED WORK
 
-> "Still figuring things out. One commit at a time."
+A few things I've been exploring.
 
----
+| PROJECT | DESCRIPTION | STACK |
+|:--|:--|:--|
+| [NexSlash](https://github.com/RayaMandara/NexSlash) | A browser-based arcade game with a scoring system. | Next.js · Supabase |
+| GameHub | A collection of playable web games with an unlock system. | Next.js · Supabase |
+| Nexspace | A workspace for structured AI-assisted development. | Next.js · Supabase |
+| FoodLens AI | An experiment in turning food ingredients into recipe ideas. | AI · Next.js |
 
-<div align="right">
+## 03 / TOOLBOX
 
-`INDEX / 002 — CURRENT FREQUENCY`
+**Languages & Frameworks**
 
-</div>
+`Dart` `Flutter` `JavaScript` `TypeScript` `React` `Next.js` `Laravel`
 
-## What occupies my mind.
+**Backend & Database**
 
-<table>
-<tr>
-<td width="50%" valign="top">
+`Supabase` `MySQL` `REST API`
 
-**01 / BUILDING**
+**Tools**
 
-Developing applications and exploring ideas that might become something useful.
+`Git` `GitHub` `VS Code` `Figma`
 
-</td>
-<td width="50%" valign="top">
-
-**02 / EXPLORING**
-
-Understanding software architecture, AI-assisted development, and better ways to build.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**03 / LEARNING**
-
-Flutter, modern web development, backend systems, and everything in between.
-
-</td>
-<td width="50%" valign="top">
-
-**04 / EXPERIMENTING**
-
-Trying things, breaking things, and occasionally finding something interesting.
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="right">
-
-`INDEX / 003 — THE WORKBENCH`
-
-</div>
-
-## Things I work with.
+## 04 / GITHUB ACTIVITY
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,nextjs,react,typescript,tailwind,nodejs,laravel,supabase,git,github,vscode&theme=dark" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RayaMandara&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E6EDF3&text_color=8B949E&icon_color=8B949E" alt="GitHub statistics" />
 
-<br/><br/>
-
-`FLUTTER` · `NEXT.JS` · `TYPESCRIPT` · `SUPABASE`
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayaMandara&layout=compact&hide_border=true&bg_color=0D1117&title_color=E6EDF3&text_color=8B949E" alt="Most used languages" />
 
 </div>
-
----
-
-<div align="right">
-
-`INDEX / 004 — SELECTED EXPERIMENTS`
-
-</div>
-
-## Things I've been building.
-
-**01. / NEXUZ UNITY**
-
-XII PPLG Website.
-
-`NEXT.JS` · `AI` · `SUPABASE`
-
-**02. / GAMEHUB**
-
-A small gaming platform built around interactive experiences and web-based games.
-
-`NEXT.JS` · `SUPABASE`
-
-<br/>
 
 <div align="center">
 
-<a href="https://github.com/RayaMandara?tab=repositories">
-  EXPLORE ALL EXPERIMENTS ↗
-</a>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=RayaMandara&bg_color=0D1117&color=8B949E&line=8B949E&point=E6EDF3&area=true&hide_border=true" alt="Contribution activity graph" />
 
 </div>
 
----
+## 05 / BEYOND THE CODE
 
-<div align="right">
+<details>
+<summary>Things that interest me</summary>
 
-`INDEX / 005 — ACTIVITY`
+- Generative art and creative coding.
+- UI/UX and visual experimentation.
+- AI-assisted software development.
+- Game development.
+- Software architecture.
 
-</div>
+</details>
 
-## A record of small steps.
+<details>
+<summary>Current philosophy</summary>
+
+```js
+while (curious) {
+  learn();
+  experiment();
+  build();
+  improve();
+}
+```
+
+</details>
+
+## 06 / CONNECT
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RayaMandara&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=eeeeee&text_color=999999&icon_color=aaaaaa&include_all_commits=true" width="100%" />
+[GitHub](https://github.com/RayaMandara)
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=RayaMandara&hide_border=true&background=0d0d0d&ring=aaaaaa&fire=eeeeee&currStreakLabel=eeeeee&sideLabels=999999&dates=777777" width="100%" />
+<sub>BUILT WITH CURIOSITY. WRITTEN IN CODE.</sub>
 
-</div>
-
----
-
-<div align="center">
-
-<br/>
-
-**THERE IS ALWAYS SOMETHING LEFT TO BUILD.**
-
-<br/><br/>
-
-`RAYA MANDARA` &nbsp; / &nbsp; `2026`
-
-<a href="https://github.com/RayaMandara">GITHUB</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=45&section=footer" width="100%" />
+<sub>© 2026 RAYA MANDARA</sub>
 
 </div>
