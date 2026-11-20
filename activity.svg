@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="220" viewBox="0 0 1120 220" role="img">
+<title>GitHub activity card — waiting for first workflow run</title>
+<defs><linearGradient id="a"><stop stop-color="#8B5CF6"/><stop offset=".55" stop-color="#EC4899"/><stop offset="1" stop-color="#22D3EE"/></linearGradient></defs>
+<rect width="1120" height="220" rx="20" fill="#0D1117" stroke="#30363D"/>
+<text x="40" y="52" fill="#A78BFA" font-family="Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="2">RAYA'S CONTRIBUTION FIELD</text>
+<text x="40" y="105" fill="#E6EDF3" font-family="Arial,sans-serif" font-size="25" font-weight="700">Your activity card is getting ready ✨</text>
+<text x="40" y="139" fill="#8B949E" font-family="Arial,sans-serif" font-size="15">Run “Update profile activity card” in GitHub Actions to generate your live calendar.</text>
+<rect x="40" y="170" width="1040" height="3" rx="2" fill="url(#a)"/>
+</svg>
